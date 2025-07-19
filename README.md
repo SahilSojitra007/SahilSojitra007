@@ -1,57 +1,83 @@
-<h1 align="center">Hi 👋, I'm Sahil Sojitra</h1> 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hey 👋, I'm Sahil Sojitra</h1>
 
-<h3 align="left">💻 A Passionate FullStack Developer</h3>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding" />
+</p>
 
----
-
-### ✨ Welcome to my GitHub profile!
-
-I’m a passionate software developer with expertise in building dynamic and scalable web applications. Here's a bit more about me:
-
-- 🌱 I’m currently learning **Angular and .NET Core**
-- 💬 Ask me about **Angular, .NET, or .NET Core**
-- 📫 How to reach me: **23sahilsojitra@gmail.com**
-- ⚡ Fun fact: **I am Funny** 😄
-
----
-
-### 🚀 Languages and Tools:
-- **Languages:** C#, JavaScript, TypeScript, HTML, CSS
-- **Frameworks:** .NET Framework, .NET Core, ASP.NET MVC, ASP.NET Web API, Angular
-- **Libraries/Tools:** LINQ, SignalR, ADO.NET, Dapper, Entity Framework, AJAX, jQuery, Bootstrap, Tailwind CSS
-- **Database:** SQL Server
-- **Hosting & Servers:** IIS Server, SmartASP.NET
-- **Cloud & DevOps:** Currently learning AWS, Azure, and cloud-based production deployment
-- **Version Control:** Git (GitHub, GitLab)
-- **Architecture & Practices:** MVC pattern, RESTful APIs, clean code principles, and agile methodologies
-
----
-
-### 💡 What I’m working on:
-I’m currently focusing on developing full-stack applications using .NET, including .NET Core, ASP.NET Web API, and ASP.NET MVC for the backend. I'm actively learning Angular to strengthen my frontend development skills and aiming to build more dynamic, responsive user interfaces. I'm also exploring cloud technologies like Azure and deepening my understanding of microservices architecture to design scalable, distributed systems.
-
----
-
-### 📈 My GitHub Stats:
-🌱 **Learning & Growing:**
-- Advanced Angular features and best practices
-- Microservices architecture in .NET Core
-- Integrating Cloud services like Azure Functions and App Services
-- Performance tuning in .NET Core and SQL Server
-- Hosting and deployment using IIS and SmartASP.NET
-- Using SignalR for real-time communication in .NET apps
-- Securing web APIs with JWT, OAuth2, and IdentityServer
-
----
-
-### 🤝 Let’s Connect:
-I’m always open to collaboration, learning, and new opportunities. Whether you want to work together, share ideas, or just have a developer-to-developer chat — feel free to reach out!
-
-<p align="left">
-<a href="https://linkedin.com/in/sahil-sojitra-370bbb22a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-sojitra-370bbb22a" height="20" width="20" />
-</a>
+<p align="center">
+  <strong>💻 Full Stack Developer | ASP.NET Core | Angular | SQL | Cloud Enthusiast</strong>
 </p>
 
 ---
+
+### 🧑‍💻 About Me
+
+- 🚀 I love building **dynamic, scalable** web apps
+- 🌱 Currently learning **Angular**, **Azure**, and **Microservices in .NET Core**
+- 💬 Ask me about **.NET Core, ASP.NET MVC, Web API, Angular**
+- 📫 Reach me at: [23sahilsojitra@gmail.com](mailto:23sahilsojitra@gmail.com)
+- 😄 Fun fact: **I’m funny and caffeine-powered ☕**
+
+---
+
+### 🚀 Tech Stack
+
+#### 🌐 Frontend:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+#### 🧰 Backend:
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-2C3E50?style=flat)
+
+#### 🔧 Tools & Libraries:
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=flat)
+![Dapper](https://img.shields.io/badge/Dapper-1572B6?style=flat)
+![SignalR](https://img.shields.io/badge/SignalR-00599C?style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+
+#### 🗄️ Database:
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+#### ☁️ Cloud & DevOps:
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+
+---
+
+### 📌 Current Focus
+
+- 🔄 **Advanced Angular Concepts**  
+- 🧱 **Microservices in .NET Core**  
+- ☁️ **Azure Functions & App Services**  
+- 🛠️ **Performance Tuning in .NET & SQL**  
+- 🔐 **API Security with JWT, OAuth2, IdentityServer**  
+- 📡 **Real-time communication using SignalR**
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilsojitra&show_icons=true&theme=radical" alt="Sahil's GitHub Stats" />
+</p>
+
+---
+
+### 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/sahil-sojitra-370bbb22a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
