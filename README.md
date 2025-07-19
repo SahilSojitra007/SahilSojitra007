@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Sojitra</h1> 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" style="margin-bottom: 15;" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">💻 A Passionate FullStack Developer</h3>
 
