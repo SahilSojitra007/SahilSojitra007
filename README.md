@@ -18,15 +18,18 @@ I’m a passionate software developer with expertise in building dynamic and sca
 
 ### 🚀 Languages and Tools:
 - **Languages:** C#, JavaScript, TypeScript, HTML, CSS
-- **Frameworks:** .NET, .NET Core, Angular
-- **Libraries/Tools:** AJAX, jQuery, Bootstrap, Entity Framework, SQL Server, ADO.Net, Dapper
-- **Version Control:** Git, GitHub, GitLab
-- **Others:** MVC, RESTful APIs
+- **Frameworks:** .NET Framework, .NET Core, ASP.NET MVC, ASP.NET Web API, Angular
+- **Libraries/Tools:** LINQ, SignalR, ADO.NET, Dapper, Entity Framework, AJAX, jQuery, Bootstrap, Tailwind CSS
+- **Database:** SQL Server
+- **Hosting & Servers:** IIS Server, SmartASP.NET
+- **Cloud & DevOps:** Currently learning AWS, Azure, and cloud-based production deployment
+- **Version Control:** Git (GitHub, GitLab)
+- **Architecture & Practices:** MVC pattern, RESTful APIs, clean code principles, and agile methodologies
 
 ---
 
 ### 💡 What I’m working on:
-I’m currently focusing on developing full-stack applications using .NET Core for backend and Angular for frontend. I’m also exploring cloud technologies like Azure and diving deeper into microservices architecture.
+I’m currently focusing on developing full-stack applications using .NET, including .NET Core, ASP.NET Web API, and ASP.NET MVC for the backend. I'm actively learning Angular to strengthen my frontend development skills and aiming to build more dynamic, responsive user interfaces. I'm also exploring cloud technologies like Azure and deepening my understanding of microservices architecture to design scalable, distributed systems.
 
 ---
 
@@ -35,11 +38,15 @@ I’m currently focusing on developing full-stack applications using .NET Core f
 - Advanced Angular features and best practices
 - Microservices architecture in .NET Core
 - Integrating Cloud services like Azure Functions and App Services
+- Performance tuning in .NET Core and SQL Server
+- Hosting and deployment using IIS and SmartASP.NET
+- Using SignalR for real-time communication in .NET apps
+- Securing web APIs with JWT, OAuth2, and IdentityServer
 
 ---
 
 ### 🤝 Let’s Connect:
-Feel free to reach out for collaboration or just a chat! I’m always open to new opportunities and learning from fellow developers.
+I’m always open to collaboration, learning, and new opportunities. Whether you want to work together, share ideas, or just have a developer-to-developer chat — feel free to reach out!
 
 <p align="left">
 <a href="https://linkedin.com/in/sahil-sojitra-370bbb22a" target="blank">
