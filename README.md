@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>💻 Full Stack Developer | ASP.NET (MVC5) | ASP.NET Core (MVC/Web API) | Angular | HTML/CSS/JS | Bootstrap | Tailwind | SQL | Cloud Enthusiast</strong>
+  <strong>💻 Full Stack Developer</strong>
 </p>
 
 ---
@@ -14,9 +14,9 @@
   <strong>🧑‍💻 About Me</strong><br><br>
   🚀 Passionate about building <strong>dynamic, scalable</strong> web applications <br>
   🌱 Currently learning <strong>Angular</strong>, <strong>Azure</strong>, and <strong>Microservices in .NET Core</strong> <br>
-  💬 Ask me about <strong>.NET, .NET Core, ASP.NET MVC, Web API, Angular</strong> <br>
+  💬 Ask me about <strong>.NET, ASP.NET MVC 5, .NET Core MVC, Web API, Angular</strong> <br>
   📫 Reach me at: <a href="mailto:23sahilsojitra@gmail.com">23sahilsojitra@gmail.com</a> <br>
-  😄 Fun fact: <strong>Powered by curiosity and caffeine ☕</strong>
+  😄 Fun fact: <strong>Brain fueled by bugs, fixed with Tea ☕</strong>
 </p>
 
 ---
@@ -37,8 +37,9 @@
 <p align="center">
   <strong>🧰 Backend</strong><br><br>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_MVC_5-512BD4?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Web_API-2C3E50?style=flat" />
 </p>
 
@@ -84,8 +85,8 @@
 <h3 align="center">🔭 What I’m Working On</h3>
 
 <p align="center">
-  I'm currently developing full-stack applications using <strong>.NET Core, ASP.NET Web API, ASP.NET MVC</strong> and strengthening my frontend skills with <strong>Angular</strong>. <br>
-  I'm exploring <strong>Azure cloud</strong> services and diving deeper into <strong>microservices architecture</strong> for distributed system design.
+  I’m currently focusing on developing full-stack applications using <strong> .NET, ASP.NET MVC 5, .NET Core MVC, ASP.NET Web API </strong> for the backend. I'm actively learning <strong>Angular</strong> to strengthen my frontend development skills and aiming to build more dynamic, responsive user interfaces.
+  I'm also exploring cloud technologies like <strong> Azure </strong> and deepening my understanding of <strong> microservices architecture </strong> to design scalable, distributed systems.
 </p>
 
 ---
@@ -93,10 +94,10 @@
 <h3 align="center">📌 Current Focus</h3>
 
 <p align="center">
-  🔄 <strong>Advanced Angular Concepts</strong><br>
-  🧱 <strong>Microservices in .NET Core</strong><br>
-  ☁️ <strong>Azure Functions & App Services</strong><br>
-  🛠️ <strong>Performance Tuning in .NET & SQL</strong><br>
+  🔄 <strong>Advanced Angular features and best practices</strong><br>
+  🧱 <strong>Microservices architecture in .NET Core</strong><br>
+  ☁️ <strong>Integrating Cloud services like Azure Functions and App Services</strong><br>
+  🛠️ <strong>Performance tuning in .NET Core and SQL Server</strong><br>
   🔐 <strong>API Security with JWT, OAuth2, IdentityServer</strong><br>
   📡 <strong>Real-time Communication using SignalR</strong>
 </p>
@@ -116,8 +117,8 @@
 <h3 align="center">🤝 Let’s Connect</h3>
 
 <p align="center">
-  I'm always open to collaboration, learning, and new opportunities. <br>
-  Whether it’s a project, mentorship, or tech talk — feel free to reach out!
+  I’m always open to collaboration, learning, and new opportunities.<br> 
+  Whether you want to work together, share ideas, or just have a developer-to-developer chat — feel free to reach out!
 </p>
 
 <p align="center">
