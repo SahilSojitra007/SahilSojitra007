@@ -69,7 +69,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilsojitra&show_icons=true&theme=radical" alt="Sahil's GitHub Stats" />
+  <img src="https://github-contribution-grid.vercel.app/api?username=sahilsojitra&color=58a6ff&grid=monthly" alt="GitHub Contribution Graph" />
 </p>
 
 ---
