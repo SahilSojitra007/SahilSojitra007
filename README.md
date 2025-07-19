@@ -69,7 +69,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=sahilsojitra&color=58a6ff&grid=monthly" alt="GitHub Contribution Graph" />
+  <img src="https://streak-stats.demolab.com/?user=sahilsojitra&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
