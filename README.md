@@ -5,18 +5,18 @@
 </p>
 
 <p align="center">
-  <strong>💻 Full Stack Developer | ASP.NET Core | Angular | SQL | Cloud Enthusiast</strong>
+  <strong>💻 Full Stack Developer | ASP.NET (MVC5) | ASP.NET Core (MVC/Web API) | Angular | HTML/CSS/JS | Bootstrap | Tailwind | SQL | Cloud Enthusiast</strong>
 </p>
 
 ---
 
 <p align="center">
   <strong>🧑‍💻 About Me</strong><br><br>
-  🚀 I love building <strong>dynamic, scalable</strong> web apps <br>
+  🚀 Passionate about building <strong>dynamic, scalable</strong> web applications <br>
   🌱 Currently learning <strong>Angular</strong>, <strong>Azure</strong>, and <strong>Microservices in .NET Core</strong> <br>
-  💬 Ask me about <strong>.NET Core, ASP.NET MVC, Web API, Angular</strong> <br>
+  💬 Ask me about <strong>.NET, .NET Core, ASP.NET MVC, Web API, Angular</strong> <br>
   📫 Reach me at: <a href="mailto:23sahilsojitra@gmail.com">23sahilsojitra@gmail.com</a> <br>
-  😄 Fun fact: <strong>I’m funny and caffeine-powered ☕</strong>
+  😄 Fun fact: <strong>Powered by curiosity and caffeine ☕</strong>
 </p>
 
 ---
@@ -30,29 +30,38 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </p>
 
 <p align="center">
   <strong>🧰 Backend</strong><br><br>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_MVC_5-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Web_API-2C3E50?style=flat" />
 </p>
 
 <p align="center">
   <strong>🔧 Tools & Libraries</strong><br><br>
+  <img src="https://img.shields.io/badge/LINQ-68217A?style=flat" />
   <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=flat" />
+  <img src="https://img.shields.io/badge/ADO.NET-68217A?style=flat" />
   <img src="https://img.shields.io/badge/Dapper-1572B6?style=flat" />
   <img src="https://img.shields.io/badge/SignalR-00599C?style=flat" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/AJAX-0769AD?style=flat" />
 </p>
 
 <p align="center">
   <strong>🗄️ Database</strong><br><br>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>🌐 Hosting & Deployment</strong><br><br>
+  <img src="https://img.shields.io/badge/IIS_Server-0078D4?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/SmartASP.NET-004880?style=flat" />
 </p>
 
 <p align="center">
@@ -62,6 +71,21 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>📦 Package Management</strong><br><br>
+  <img src="https://img.shields.io/badge/NuGet-004880?style=flat&logo=nuget&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">🔭 What I’m Working On</h3>
+
+<p align="center">
+  I'm currently developing full-stack applications using <strong>.NET Core, ASP.NET Web API, ASP.NET MVC</strong> and strengthening my frontend skills with <strong>Angular</strong>. <br>
+  I'm exploring <strong>Azure cloud</strong> services and diving deeper into <strong>microservices architecture</strong> for distributed system design.
 </p>
 
 ---
@@ -74,7 +98,7 @@
   ☁️ <strong>Azure Functions & App Services</strong><br>
   🛠️ <strong>Performance Tuning in .NET & SQL</strong><br>
   🔐 <strong>API Security with JWT, OAuth2, IdentityServer</strong><br>
-  📡 <strong>Real-time communication using SignalR</strong>
+  📡 <strong>Real-time Communication using SignalR</strong>
 </p>
 
 ---
@@ -90,6 +114,11 @@
 ---
 
 <h3 align="center">🤝 Let’s Connect</h3>
+
+<p align="center">
+  I'm always open to collaboration, learning, and new opportunities. <br>
+  Whether it’s a project, mentorship, or tech talk — feel free to reach out!
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sahil-sojitra-370bbb22a" target="_blank">
