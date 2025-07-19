@@ -66,11 +66,12 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🔥 My Coding Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsojitra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+- 💡 I believe in writing clean, maintainable code.
+- 🧩 I love solving real-world problems with practical apps.
+- 🚀 I focus on building efficient, scalable systems — not just beautiful UIs.
+
 
 ---
 
